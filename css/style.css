@@ -1,7 +1,14 @@
 @import "./global/header.css";
 @import "./global/global.css";
+
+/* utilidades */
 @import "./utilidades/componentes.css";
+@import "./utilidades/tipografia.css";
+@import './utilidades/cores.css';
 
 /*Home*/
 @import "./home/introducao.css";
 
+/* carros-list */
+
+@import "./carros/carros-list.css";
