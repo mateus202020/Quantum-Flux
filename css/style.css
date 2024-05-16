@@ -12,3 +12,7 @@
 /* carros-list */
 
 @import "./carros/carros-list.css";
+
+/* tecnologia */
+
+@import "./home/tecnologia.css";

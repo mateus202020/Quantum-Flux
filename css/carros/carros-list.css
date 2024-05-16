@@ -53,11 +53,13 @@
     width: 12px;
     margin-right: 8px;
     background-color: var(--cor-p1);
-    transition: widht 0.3s;
+    transition: 0.3s;
+    
 }
 
-.carros-list a:beforeh3::before{
+.carros-list a:before h3::before{
     width: 24px;
+    
 }
 
 
