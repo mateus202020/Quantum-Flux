@@ -1,6 +1,7 @@
 @import "./global/header.css";
 @import "./global/global.css";
 @import "./global/footer.css";
+
 /* utilidades */
 @import "./utilidades/componentes.css";
 @import "./utilidades/tipografia.css";
@@ -14,8 +15,14 @@
 /* carros-list */
 
 @import "./carros/carros-list.css";
+@import "./carros/carros.css";
 
 /* Seguros */
 
 @import "./seguros/seguros.css";
+
+/* termos */
+
+@import "./termos/termos.css";
+
 
