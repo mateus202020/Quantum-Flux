@@ -6,6 +6,7 @@
 @import "./utilidades/componentes.css";
 @import "./utilidades/tipografia.css";
 @import './utilidades/cores.css';
+@import "./utilidades/formulario.css";
 
 /*Home*/
 @import "./home/introducao.css";
@@ -17,11 +18,21 @@
 @import "./carros/carros-list.css";
 @import "./carros/carros.css";
 
+/* carro */
+
+@import "./carro/carro.css";
+@import "./carro/seguro.css";
+
 /* Seguros */
 
 @import "./seguros/seguros.css";
 @import "./seguros/vantegens.css";
 @import "./seguros/perguntas.css";
+
+/* contato */
+
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
 
 /* termos */
 
